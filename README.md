@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning firebase
 - 💞️ I’m looking to collaborate on active listening and claer communication 
-- 📫 How to reach me (email: alishba.akhtar555@gmail.com) Or (phone number:03147892549) you 
+- 📫 How to reach me (email: alishba.akhtar555@gmail.com) Or (phone number:03147892549)
   
 
 <!---
